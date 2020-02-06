@@ -17,10 +17,10 @@
   <section>
     <nav>
         <a :hover>
-         <ul>   
-        <li><a href="#">Primeira parte</a></li>
-        <li><a href="#">Segunda parte</a></li>
-        <li><a href="#">Terceira parte</a></li>
+         <ul >   
+        <li><a href="#">Primeira parte</a></li><br>
+        <li><a href="#">Segunda parte</a></li><br>
+        <li><a href="#">Terceira parte</a></li><br> 
        </ul>
       </a> 
     </nav>
