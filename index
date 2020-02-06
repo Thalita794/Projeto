@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta charset="UTF-8">
+            <link rel="stylesheet" type="text/css" href="css/estilos.css" media="screen" />
+                <title>História da programação - Projeto </title>
+        </head>
+    
+        <body>
+
+                
+<header>
+    <h2>História da programação</h2>
+  </header>
+  
+  <section>
+    <nav>
+      <ul>
+        <li><a href="#">Primeira parte</a></li>
+        <li><a href="#">Segunda parte</a></li>
+        <li><a href="#">Terceira parte</a></li>
+      </ul>
+    </nav>
+  </section>  
+        
+        
+        
+        </body>   
+
+        <footer>
+            <p>SENAC Bonsucesso - Rua Dona Isabel, 700 - Rio de Janeiro<br>
+            2020 - Todos os Direitos Reservados ©</p>
+          </footer>
+          
+    </html>
