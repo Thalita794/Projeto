@@ -16,11 +16,13 @@
   
   <section>
     <nav>
-      <ul>
+        <a :hover>
+         <ul>   
         <li><a href="#">Primeira parte</a></li>
         <li><a href="#">Segunda parte</a></li>
         <li><a href="#">Terceira parte</a></li>
-      </ul>
+       </ul>
+      </a> 
     </nav>
   </section>  
         
