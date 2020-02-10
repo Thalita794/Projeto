@@ -11,9 +11,7 @@
     <h2>História da programação</h2>
   </header>
   
-  
-  
-  <section>
+ <section>
     <nav>
      <div class="navbar">
   <a href="index.html">segunda parte</a>
@@ -35,4 +33,5 @@
 	<h3>Década de 50</h3>
 <p>As primeiras linguagens eram as de máquina desenvolvidas para os primeiros computadores. Os programas eram escritos em código de máquina e inseridos no computador através de cabos. Códigos como 0001101010101.
 
-Nessa época, os programadores viram que era difícil escrever e modificar a linguagem de máquina e logo perceberam que era necessário encontrar uma forma mais fácil de escrever os programas para computador. Assim surgiu Assembly. A Assembly é considerada de baixo nível, pois tem maior proximidade com a máquina. Ela tornou-se uma das mais usadas na época, pois estava mais próxima da máquina e da compreensão humana, cujo compilador (tradutor) trocava o código binário por uma linguagem mais compreensível. Apesar disso, ainda era considerada primitiva e os programadores começaram a buscar outras formas de escrever as linguagens de programação. Isso deu origem as linguagens de alto nível, que estariam mais próximas da compreensão do homem.</p>
+Nessa época, os programadores viram que era difícil escrever e modificar a linguagem de máquina e logo perceberam que era necessário encontrar uma forma mais fácil de escrever os programas para computador. Assim surgiu Assembly. A Assembly é considerada de baixo nível, pois tem maior proximidade com a máquina. Ela tornou-se uma das mais usadas na época, pois estava mais próxima da máquina e da compreensão humana, cujo compilador (tradutor) trocava o código binário por uma linguagem mais compreensível.
+ Apesar disso, ainda era considerada primitiva e os programadores começaram a buscar outras formas de escrever as linguagens de programação. Isso deu origem as linguagens de alto nível, que estariam mais próximas da compreensão do homem.</p>
