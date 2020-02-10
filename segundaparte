@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta charset="UTF-8">
+            <link rel="stylesheet" type="text/css" href="css/estilos.css" media="screen" />
+                   <title>História da programação - Projeto </title>
+        </head>
+        <body>
+ <header>
+    <h2>História da programação</h2>
+  </header>
+  
+  
+  
+  <section>
+    <nav>
+     <div class="navbar">
+  <a href="index.html">segunda parte</a>
+  <a href="membros.html">Membros</a>
+  <div class="dropdown">
+    <button class="dropbtn">Partes
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="primeraparte.html">Primeira parte</a>
+      <a href="segundaparte.html">Segunda parte</a>
+      <a href="terceiraparte.html">Terceira parte</a>
+    </div>
+  </div>
+</div>
+    </nav>
+  </section>  
+
+	<h3>Década de 50</h3>
+<p>As primeiras linguagens eram as de máquina desenvolvidas para os primeiros computadores. Os programas eram escritos em código de máquina e inseridos no computador através de cabos. Códigos como 0001101010101.
+
+Nessa época, os programadores viram que era difícil escrever e modificar a linguagem de máquina e logo perceberam que era necessário encontrar uma forma mais fácil de escrever os programas para computador. Assim surgiu Assembly. A Assembly é considerada de baixo nível, pois tem maior proximidade com a máquina. Ela tornou-se uma das mais usadas na época, pois estava mais próxima da máquina e da compreensão humana, cujo compilador (tradutor) trocava o código binário por uma linguagem mais compreensível. Apesar disso, ainda era considerada primitiva e os programadores começaram a buscar outras formas de escrever as linguagens de programação. Isso deu origem as linguagens de alto nível, que estariam mais próximas da compreensão do homem.</p>
