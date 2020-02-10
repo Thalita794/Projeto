@@ -59,7 +59,15 @@
     Antes da década de 40, os primeiros algoritmos criados foram encontrados, por exemplo, na Mesopotâmia e na Grécia, que só evoluíram dentro da computação, principalmente com Babbage e Ada Lovelace.</p>
 
 
-</body>
+</body> 
+
+<h3>Linguagens Desenvolvidas</h3>
+	Entre 1943 a 1945, Konrad Zuse, um engenheiro alemão responsável por criar um dos primeiros computadores, desenvolveu a Plankalkül (Program Calculus). Após ter seus materiais destruídos pela guerra, exceto o Z4, um de seus modelos de computadores, ele foi morar na vila de Hintersteiner e começou a trabalhar num método para escrever uma mensagem por meio de símbolos que poderiam ser utilizados como uma linguagem de programação. Ele descobriu que ainda não havia uma notação para algoritmos. Apesar disso,ela não foi reconhecida na época.
+
+Em Princeton, nos Estados Unidos os pesquisadores John von Neumann e Herman Heine Goldstine também se preocuparam em como poderiam escrever um algoritmo de forma precisa que pudesse ser entendido por uma máquina. Eles desenvolveram projetos de programas para o computador EDVAC e a máquina do Instituto Avançado de Estudos de Princeton.
+
+Haskell B. Curry sugeriu uma notação menor do que a de Neumann e Goldstine, porém a forma que descrevia os passos não foi aceitada pela comunidade científica. O que mais marcou em seus estudos foi a descoberta de algoritmos que poderiam transformar de forma apropriada expressões aritméticas em linguagem de máquina.</p>
+
 
         
         <footer>
