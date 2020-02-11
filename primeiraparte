@@ -22,9 +22,9 @@
     <button class="dropbtn">Partes
       <i class="fa fa-caret-down"></i>
     </button>
-    <div class="dropdown-content">
-      <a href="primeraparte.html">Primeira parte</a>
-      <a href="segundaparte.html">Segunda parte</a>
+    <div class="dropdown-content">Primeira parte</a>
+      <a href="primeraparte.html">Segunda parte</a>
+      <a href="segundaparte.html">Terceira parte</a>
       <p>À princípio, as linguagens de programação eram somente códigos, diferentes dos que são utilizados nos computadores atuais.<br> A sua história está intimamente ligada a história dos computadores,<br> pois as linguagens foram criadas justamente para que o homem pudesse através das máquinas,<br> usar sequências lógicas para resolver um problema. Ao longo dos tempos,<br> diversas foram criadas para um propósito específico. Por isso, pode-se dizer que este é o motivo de existir várias delas.</p>
 
 <p> <h3>O tear de Jacquard</h3>
@@ -61,13 +61,6 @@ Em Princeton, nos Estados Unidos os pesquisadores John von Neumann e Herman Hein
 
 Haskell B. Curry sugeriu uma notação menor do que a de Neumann e Goldstine, porém a forma que descrevia os passos não foi aceitada pela comunidade científica. O que mais marcou em seus estudos foi a descoberta de algoritmos que poderiam transformar de forma apropriada expressões aritméticas em linguagem de máquina.</p>
 
-
-      <a href="terceiraparte.html">Terceira parte</a>
-    </div>
-  </div>
-</div>
-    </nav>
-  </section>  
 
   <p>À princípio, as linguagens de programação eram somente códigos, diferentes dos que são utilizados nos computadores atuais.<br> A sua história está intimamente ligada a história dos computadores,<br> pois as linguagens foram criadas justamente para que o homem pudesse através das máquinas,<br> usar sequências lógicas para resolver um problema. Ao longo dos tempos,<br> diversas foram criadas para um propósito específico. Por isso, pode-se dizer que este é o motivo de existir várias delas.</p>
 
