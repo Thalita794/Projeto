@@ -36,6 +36,18 @@
 Nessa época, os programadores viram que era difícil escrever e modificar a linguagem de máquina e logo perceberam que era necessário encontrar uma forma mais fácil de escrever os programas para computador. Assim surgiu Assembly. A Assembly é considerada de baixo nível, pois tem maior proximidade com a máquina. Ela tornou-se uma das mais usadas na época, pois estava mais próxima da máquina e da compreensão humana, cujo compilador (tradutor) trocava o código binário por uma linguagem mais compreensível.
  Apesar disso, ainda era considerada primitiva e os programadores começaram a buscar outras formas de escrever as linguagens de programação. Isso deu origem as linguagens de alto nível, que estariam mais próximas da compreensão do homem.</p>
 
+<h3>Outras linguagens de programação criadas na década de 60 e 70:</h3>
+
+<p>CPL (1963);
+PL/I (1964);
+Simula 1 (1964);
+Snobol (1962);
+Smalltalk (1969);
+Prolog (1970);
+ML(1973);
+Scheme (1975);
+Modula (1975);
+Ada (1979), etc.</p>
 <p> Nessa época, os programadores viram que era difícil escrever e modificar a linguagem de máquina e logo perceberam que era necessário encontrar uma forma mais fácil de escrever os programas para computador. Assim surgiu Assembly. A Assembly é considerada de baixo nível, pois tem maior proximidade com a máquina. Ela tornou-se uma das mais usadas na época, pois estava mais próxima da máquina e da compreensão humana, cujo compilador (tradutor) trocava o código binário por uma linguagem mais compreensível.
    Apesar disso, ainda era considerada primitiva e os programadores começaram a buscar outras formas de escrever as linguagens de programação. Isso deu origem as linguagens de alto nível, que estariam mais próximas da compreensão do homem.</p>
 
