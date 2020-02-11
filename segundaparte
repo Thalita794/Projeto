@@ -22,6 +22,7 @@
     </button>
     <div class="dropdown-content">
       <a href="primeraparte.html">Primeira parte</a>
+	  
       <a href="segundaparte.html">Segunda parte</a>
       <a href="terceiraparte.html">Terceira parte</a>
     </div>
@@ -36,6 +37,28 @@
 Nessa época, os programadores viram que era difícil escrever e modificar a linguagem de máquina e logo perceberam que era necessário encontrar uma forma mais fácil de escrever os programas para computador. Assim surgiu Assembly. A Assembly é considerada de baixo nível, pois tem maior proximidade com a máquina. Ela tornou-se uma das mais usadas na época, pois estava mais próxima da máquina e da compreensão humana, cujo compilador (tradutor) trocava o código binário por uma linguagem mais compreensível.
  Apesar disso, ainda era considerada primitiva e os programadores começaram a buscar outras formas de escrever as linguagens de programação. Isso deu origem as linguagens de alto nível, que estariam mais próximas da compreensão do homem.</p>
 
+<p> Nessa época, os programadores viram que era difícil escrever e modificar a linguagem de máquina e logo perceberam que era necessário encontrar uma forma mais fácil de escrever os programas para computador. Assim surgiu Assembly. A Assembly é considerada de baixo nível, pois tem maior proximidade com a máquina. Ela tornou-se uma das mais usadas na época, pois estava mais próxima da máquina e da compreensão humana, cujo compilador (tradutor) trocava o código binário por uma linguagem mais compreensível.
+   Apesar disso, ainda era considerada primitiva e os programadores começaram a buscar outras formas de escrever as linguagens de programação. Isso deu origem as linguagens de alto nível, que estariam mais próximas da compreensão do homem.</p>
+
+   Um destaque importante é dado à Grace Hopper, analista de sistemas da Marinha do EUA. Ela deu origem a linguagem Flow Matic, que influenciou à criação da Cobol. Por causa de seus feitos históricos foi umas das primeiras mulheres a conquistar doutorado em computação. A Cobol foi criada em 1959 por fabricantes e usuários de computadores do governo americano e da indústria. Foi usada para a manipulação eficiente de muitos dados, especialmente para empresas e finanças.
+
+Outras linguagens criadas na década de 50 foram:
+
+Regional Assembly Language (1951);
+Flow Matic (1958);
+Algol (1958);
+Lisp (1958).</p>
+
+<h3>Década de 60 e 70</h3>
+
+<p>No final da década de 60 até início da década de 70, as linguagens foram evoluindo, ALGOL 60, é um exemplo disso, foi uma linguagem nova para algoritmos que inovou a forma de se escrever códigos. Tornou-se tão popular que evoluiu para ALGOL 68. Mas entrou em defasagem levando posteriormente a criação de uma mais compreensível e estruturada, a Pascal.
+
+Criada por Niklaus With, em 1970, Pascal é uma linguagem de alto nível usada no ensino da programação estruturada. As versões comerciais da linguagem foram amplamente utilizadas nos anos 80. É usada nos cursos da área de exatas para introdução a lógica de programação, bem como da versão atualizada de Pascal, Object Pascal e para o desenvolvimento de aplicações para o Windows. Empresas como a Apple utilizaram a linguagem para o computador pessoal Lisa, em 1983.
+
+Outra importante linguagem é a Basic, criada em 1964 por Eugene Kurtz e George Kemeny, nos EUA, para que a população pudesse ter acesso aos computadores. Nesse período apenas cientistas e matemáticos tinham contato com o desenvolvimento de softwares para computador.
+
+Na década de 70, a linguagem C, foi uma das favoritas. Criada em 1972 por Dennis Ritchie, ela foi desenvolvida nos laboratórios da Bell Telephone para utilização do sistema Unix. Ela é de uso geral e intermediária. Muitas linguagens originaram dela como C#, Java, JavaScript, PHP, Perl e Python. Foi usada primeiramente para multi-plataformas, para a programação do sistema Unix e para o desenvolvimento de jogos de computador.</p>
+
 <h3>Outras linguagens de programação criadas na década de 60 e 70:</h3>
 
 <p>CPL (1963);
@@ -48,23 +71,3 @@ ML(1973);
 Scheme (1975);
 Modula (1975);
 Ada (1979), etc.</p>
-<p> Nessa época, os programadores viram que era difícil escrever e modificar a linguagem de máquina e logo perceberam que era necessário encontrar uma forma mais fácil de escrever os programas para computador. Assim surgiu Assembly. A Assembly é considerada de baixo nível, pois tem maior proximidade com a máquina. Ela tornou-se uma das mais usadas na época, pois estava mais próxima da máquina e da compreensão humana, cujo compilador (tradutor) trocava o código binário por uma linguagem mais compreensível.
-   Apesar disso, ainda era considerada primitiva e os programadores começaram a buscar outras formas de escrever as linguagens de programação. Isso deu origem as linguagens de alto nível, que estariam mais próximas da compreensão do homem.</p>
-
-   Um destaque importante é dado à Grace Hopper, analista de sistemas da Marinha do EUA. Ela deu origem a linguagem Flow Matic, que influenciou à criação da Cobol. Por causa de seus feitos históricos foi umas das primeiras mulheres a conquistar doutorado em computação. A Cobol foi criada em 1959 por fabricantes e usuários de computadores do governo americano e da indústria. Foi usada para a manipulação eficiente de muitos dados, especialmente para empresas e finanças.
-
-Outras linguagens criadas na década de 50 foram:
-
-Regional Assembly Language (1951);
-Flow Matic (1958);
-Algol (1958);
-Lisp (1958).</p>
-<h3>Década de 60 e 70</h3>
-
-<p>No final da década de 60 até início da década de 70, as linguagens foram evoluindo, ALGOL 60, é um exemplo disso, foi uma linguagem nova para algoritmos que inovou a forma de se escrever códigos. Tornou-se tão popular que evoluiu para ALGOL 68. Mas entrou em defasagem levando posteriormente a criação de uma mais compreensível e estruturada, a Pascal.
-
-Criada por Niklaus With, em 1970, Pascal é uma linguagem de alto nível usada no ensino da programação estruturada. As versões comerciais da linguagem foram amplamente utilizadas nos anos 80. É usada nos cursos da área de exatas para introdução a lógica de programação, bem como da versão atualizada de Pascal, Object Pascal e para o desenvolvimento de aplicações para o Windows. Empresas como a Apple utilizaram a linguagem para o computador pessoal Lisa, em 1983.
-
-Outra importante linguagem é a Basic, criada em 1964 por Eugene Kurtz e George Kemeny, nos EUA, para que a população pudesse ter acesso aos computadores. Nesse período apenas cientistas e matemáticos tinham contato com o desenvolvimento de softwares para computador.
-
-Na década de 70, a linguagem C, foi uma das favoritas. Criada em 1972 por Dennis Ritchie, ela foi desenvolvida nos laboratórios da Bell Telephone para utilização do sistema Unix. Ela é de uso geral e intermediária. Muitas linguagens originaram dela como C#, Java, JavaScript, PHP, Perl e Python. Foi usada primeiramente para multi-plataformas, para a programação do sistema Unix e para o desenvolvimento de jogos de computador.</p>
