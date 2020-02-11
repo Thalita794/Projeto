@@ -23,8 +23,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">Primeira parte</a>
-      <a href="primeraparte.html">Primeira parte</a>
-      <a href="segundaparte.html">Segunda parte</a>
+     <a href="segundaparte.html">Segunda parte</a>
       <a href="terceiraparte.html">Terceira parte</a>
       <p>À princípio, as linguagens de programação eram somente códigos, diferentes dos que são utilizados nos computadores atuais.<br> A sua história está intimamente ligada a história dos computadores,<br> pois as linguagens foram criadas justamente para que o homem pudesse através das máquinas,<br> usar sequências lógicas para resolver um problema. Ao longo dos tempos,<br> diversas foram criadas para um propósito específico. Por isso, pode-se dizer que este é o motivo de existir várias delas.</p>
 
