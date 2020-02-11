@@ -25,6 +25,43 @@
     <div class="dropdown-content">
       <a href="primeraparte.html">Primeira parte</a>
       <a href="segundaparte.html">Segunda parte</a>
+      <p>À princípio, as linguagens de programação eram somente códigos, diferentes dos que são utilizados nos computadores atuais.<br> A sua história está intimamente ligada a história dos computadores,<br> pois as linguagens foram criadas justamente para que o homem pudesse através das máquinas,<br> usar sequências lógicas para resolver um problema. Ao longo dos tempos,<br> diversas foram criadas para um propósito específico. Por isso, pode-se dizer que este é o motivo de existir várias delas.</p>
+
+<p> <h3>O tear de Jacquard</h3>
+Na história da programação é importante mencionar Joseph-Mariae Jacquard, um francês que em 1801 efetivamente criou uma máquina que poderia substituir o homem, o tear de Jacquard. Ele funcionava por meio de um programa que deveria lhe dizer quais fios do tear poderiam passar por cima ou por baixo para que o trançado pudesse ser criado. Esses programas eram cartões perfurados que continham instruções do modelo que deveria ser produzido. Muitos dizem que Jacquard é o pai da programação, embora Ada Lovelace tenha escrito o primeiro programa para a máquina de Babbage. <br>
+
+<h3> A Máquina de Babbage</h3>
+De certa forma, a história da programação teve início com Ada Augusta Byron King ou simplesmente Ada Lovelace (nome da província que morava), a primeira programadora de computadores.
+
+Ada era filha de Lord Byron, um famoso poeta e teve como mentor Augustus de Morgan, um matemático inglês. Ela tinha enormes talentos para a área e quando foi apresentada à Charles Babbage auxiliou-o em sua máquina.
+
+Charles Babbage foi um dos pioneiros na criação dos computadores e propôs em 1822, na cidade de Londres, um projeto de uma máquina de madeira e latão que poderia realizar vários cálculos, baseada nos cartões perfurados do tear mecânico.
+
+Ela traduziu e expandiu uma descrição da máquina analítica de Charles Babbage, considerado o primeiro computador da história e escreveu um programa que poderia funcionar nela. Através da interpretação dos artigos do italiano Luigi Menabrea, ela expôs entre os anos de 1842 a 1843, um artigo contando sobre um método para realizar cálculos com a sequência de Bernoulli. Foi considerado um dos primeiros algoritmos criados que podia ser interpretado pela máquina. Apesar dessa descoberta, ela não foi construída nesse período.</p>
+<img src="img/maquina.jpg" widht="600" height="400">      
+
+<p>
+<h3>Década de 40</h3>
+Ao longo dos tempos foi visto que havia necessidade da criação de linguagens para cada tipo de problema. Por isso surgiram os algoritmos que são uma sequência lógica de instruções que poderiam ser executadas por um agente computacional, quer seja humano, mecânico, eletrônico, etc. Os programas de computadores são escritos por meio de algoritmos que atendem a uma linguagem específica. Elas devem ser escritas de acordo com:
+
+As regras de sintaxe específicas;
+Precisa ser universal, onde um problema pode ser facilmente resolvido por ela através de um computador;
+Deve respeitar as normas de semântica.
+As linguagens foram crescendo, algumas em paralelo, outras buscaram caminhos específicos para atender uma função. Isso levou a produção de diferentes tipos de paradigmas, ou seja, estilos de linguagens e objetivos para as quais deveriam ser criadas como por exemplo surgiram linguagens de programação orientadas a objetos, imperativas, funcionais, estruturadas, etc.
+
+Antes da década de 40, os primeiros algoritmos criados foram encontrados, por exemplo, na Mesopotâmia e na Grécia, que só evoluíram dentro da computação, principalmente com Babbage e Ada Lovelace.</p>
+
+
+</body> 
+
+<h3>Linguagens Desenvolvidas</h3>
+Entre 1943 a 1945, Konrad Zuse, um engenheiro alemão responsável por criar um dos primeiros computadores, desenvolveu a Plankalkül (Program Calculus). Após ter seus materiais destruídos pela guerra, exceto o Z4, um de seus modelos de computadores, ele foi morar na vila de Hintersteiner e começou a trabalhar num método para escrever uma mensagem por meio de símbolos que poderiam ser utilizados como uma linguagem de programação. Ele descobriu que ainda não havia uma notação para algoritmos. Apesar disso,ela não foi reconhecida na época.
+
+Em Princeton, nos Estados Unidos os pesquisadores John von Neumann e Herman Heine Goldstine também se preocuparam em como poderiam escrever um algoritmo de forma precisa que pudesse ser entendido por uma máquina. Eles desenvolveram projetos de programas para o computador EDVAC e a máquina do Instituto Avançado de Estudos de Princeton.
+
+Haskell B. Curry sugeriu uma notação menor do que a de Neumann e Goldstine, porém a forma que descrevia os passos não foi aceitada pela comunidade científica. O que mais marcou em seus estudos foi a descoberta de algoritmos que poderiam transformar de forma apropriada expressões aritméticas em linguagem de máquina.</p>
+
+
       <a href="terceiraparte.html">Terceira parte</a>
     </div>
   </div>
