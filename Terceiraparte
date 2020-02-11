@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta charset="UTF-8">
+            <link rel="stylesheet" type="text/css" href="css/estilos.css" media="screen" />
+                   <title>História da programação - Projeto </title>
+        </head>
+        <body>
+ <header>
+    <h2>História da programação</h2>
+  </header>
+  
+  
+  
+  <section>
+    <nav>
+     <div class="navbar">
+  <a href="index.html">Página Inicial</a>
+  <a href="membros.html">Membros</a>
+  <div class="dropdown">
+    <button class="dropbtn">Partes
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">Primeira parte</a>
+      <a href="segundaparte.html">Segunda parte</a>
+      <a href="terceiraparte.html">Terceira parte</a>
+	  
+	  <h3>Década de 80</h3>
+<p>Os anos 80 foi um marco, pois as empresas buscaram investir nas linguagens criadas nas décadas de 60 e 70. Um exemplo disso é a C++, uma linguagem de nível intermediário, orientada a objetos. É uma evolução da linguagem C, com melhorias. Ela foi criada por Bjarne Stroustrup em 1983. Seus usos foram para o desenvolvimento de aplicações comerciais, produção de jogos, etc. Adobe, Microsoft (Internet Explorer), Google (Google Chrome), Mozilla Firefox utilizam-na.
+
+Outra marcante foi Objective-C. De alto nível e de uso geral, é uma ampliação da linguagem C, com a funcionalidade de transmissão de mensagens baseada em Smalltalk. Foi criada em 1983 por Brad Cox e Tom Love. Atualmente, é utilizada principalmente para a programação da Apple, para o sistema operacional OS X e IOS da Apple.
+
+<p>Outras linguagens importantes criadas na época:</p>
+
+<p>Eiffel (1986);
+Miranda (1982);
+Object Pascal (1985);
+Common Lisp (1984);
+Haskell 1,0 (1987);
+Perl (1987).</p> 
+
+<h3>Década de 90</h3>
+
+<p>Originárias das linguagens antigas, as modernas linguagens de programação vieram com um foco inovador para a rede mundial de computadores e para a orietação a objeto, tais como Python, Java e C#.
+
+Python foi escrita por Guido van Rossum, em 1989, em Amsterdã, na Holanda. É uma linguagem de alto nível, com fácil aprendizagem e utilização. Possui licença open source, portabilidade e é muito utilizada em diversos sistemas operacionais. Empresas como Google e Yahoo fazem o uso dela.
+
+O grande sucesso veio com Java, em 1995, que foi classificada como uma linguagem de programação orientada a objeto.
+ Foi criada dentro da empresa Sun Microsystems por um grupo liderado por James Gosling que queriam produzir uma ferramenta capaz de ser utilizada independente de um dispositivo eletrônico.</p>
+ 
+<p> Ruby - criada em 1993 por Yukihiro Matsumoto, no Japão. É de alto nível e influenciada pelas linguagens Perl, Ada, Lisp, dentre outras. Usada para o desenvolvimento de aplicações para internet. Empresas como Twitter, Hulu e Groupon fizeram o uso dela;
+Lua - criada em 1993 é uma linguagem de programação desenvolvida no Brasil;
+Javascript - criada em 1995 por Brendan Eich, da Netscape. É uma linguagem de alto nível que funciona como complemento das páginas da web. É usado para criação de formulários de submissão, animações, etc. tais como desenvolvimento de páginas dinâmicas, pdfs, navegadores, etc. Empresas como Google (Gmail) e Adobe fazem o uso de aplicações com JavaScript;
+PHP - criada em 1995 por Rasmus Lerdorf é uma linguagem de código aberto, para uso geral. Usada principalmente para a construção de páginas dinâmicas da internet. Por isso, o código php, geralmente é embutido em um documento HTML e interpretado pelo servidor. Utilizado por Facebook, Wikipedia, Wordpress e Joomla;
+Delphi - é uma linguagem que derivou da Pascal, criada pela Borland Software Comporation, em 1995, e foi utilizada inicialmente para a plataforma Windows e posteriormente em aplicações do Mac OS e Linux;
+Visual Basic.NET - é uma linguagem criada pela Microsoft em 2000, orientada a objetos com suporte a UML. Geralmente é distribuída com o programa Visual Studio.NET.</p>
+
+
+
+
+
